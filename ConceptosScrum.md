@@ -1,5 +1,7 @@
 # Conceptos Scrum
 
+![Conceptos Scrum](https://fitsmallbusiness.com/wp-content/uploads/2019/05/word-image-384-1024x620.png)
+
 ### CEREMONIAS
 
 - **Sprint Planning Meeting (reunión de planificación del sprint)**. Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
