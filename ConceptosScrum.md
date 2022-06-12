@@ -20,3 +20,15 @@ Cada equipo consiste en un Scrum Master, un propietario del producto (Product Ow
 - **Product Backlog:** La pila del producto es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint. Todo lo que esté en la pila de producto representa o aporta a conseguir el objetivo del producto (Product Goal) y este último es el objetivo que el equipo tiene que conseguir cumplir a largo plazo.
 - **Sprint Backlog:** La pila de sprint delimita el trabajo necesario para alcanzar determinado incremento, y sirve para marcar el avance. También sirve como herramienta de comunicación del equipo. Esto es visible para todos y representa una imagen en tiempo real del trabajo que llevan los desarrolladores para alcanzar el Objetivo del Sprint (Sprint Meta). Este último se crea durante la reunión de planificación de Sprint y a lo largo de todo el ciclo, los desarrolladores lo tienen presente.
 - **Incremento:** Es un paso concreto que acerca el desarrollo al objetivo del producto. Cada incremento agrega valor al incremento anterior y bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
+
+### INTEGRANTES DEL GRUPO
+- **Nelson Ocampo**
+- **Gisela Ocampo**
+- **Paula Delfederico**
+- **Yael Vanina Campos**
+- **Bárbara Barrueta**
+- **Martin Zotti**
+- **Jimena Valenti**
+- **Ángel Capelli**
+- **Fernanda Campazzo**
+- **Sergio Bianco**
